@@ -1,0 +1,32 @@
+comandos CMD
+
+Abrir CMD com botão direito - executar como administrador 
+ >chkdsk  (apertar enter )leitura do hd*(já com correção)
+
+>cleanmgr  (aperta ente) Limpa tudooo e exclui depois se vc autorizar
+
+C:\WINDOWS\system32>notepad (abre blobo d nota)
+
+C:\WINDOWS\system32>DISKMGMT.MSC (informações compleytas do pc)
+
+
+
+Quando abrir o Prompt de comando digite arp -a;
+Feito isso aparecerá todas as listas de IPs de sua rede;
+
+ Minissérie: 11 Comandos de rede que todo profissional de TI precisa conhecer
+ping (Windows e Linux)
+tracert (Windows, no Linux é traceroute)
+pathping (Windows e no Linux é mtr)
+netstat (Windows e Linux)
+hostname (Windows e Linux)
+arp (Windows e Linux)
+ipconfig (Windows, no Linux é ifconfig)
+nbtstat (Windows)
+
+
+
+Qual é a função do comando IPConfig?
+Exibe todos os valores atuais de configuração de rede TCP/IP e atualiza as configurações de protocolo DHCP e DNS (sistema de nomes de domínio). 
+Usado sem parâmetros, o ipconfig exibe endereços IPv4 (protocolo IP versão 4) e IPv6, máscara de sub-rede e gateway padrão para todos os 
+adaptadores.
